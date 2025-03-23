@@ -1,4 +1,4 @@
-# Triple analog gauge using servos and and e-paper display
+# Triple Analog Gauge Using Servos and an E-paper Display
 A simple triple gauge using three servos and a 3-color e-paper display used for indicating a solar system state.
 The project uses 3 90g servos to move needles and an e-paper display to display both gauge markings and extra information about the system state.
 Inspired by [Arne van Iterson](https://arnweb.nl/gitea/arne/EinkAnalog).
