@@ -9,7 +9,7 @@ The project uses 3 90g servos to move needles and an e-paper display to display 
 - Some screws from your screw drawer ;)
 - A 3D-printer
 - Weatherproof filament like ASA or ABS
-- Some 1mm thicl acryllic to make the windows
+- Some acryllic to make the window
 
 # STEP files
 The project includes STEP files for 3d-printing an enclosure:
