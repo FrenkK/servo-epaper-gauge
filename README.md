@@ -29,6 +29,7 @@ This is the code for the ESP32 controller driving the display and servos. The he
 # TBD
 - OTA firmware upload
 - Better Wi-fi disturbances handling
+- Less lame programming skills
 
 Happy DIY :)
 Franci
