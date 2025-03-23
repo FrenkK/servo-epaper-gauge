@@ -2,6 +2,12 @@
 A simple triple gauge using three servos and a 3-color e-paper display used for indicating a solar system state.
 The project uses 3 90g servos to move needles and an e-paper display to display both gauge markings and extra information about the system state.
 
+# What you need
+- An ESPP32 dev board
+- Waveshare 4.2" 3-color e-paper display (there are two versions, one with screw holes in the back and one with screw holes next to the display, you need the first one or the mounting biard will not fit)
+- 3 90g servos
+- Some screws from your screw drawer ;)
+
 # STEP files
 The project includes STEP files for 3d-printing an enclosure:
 - Ogrodje za tri.step is the mounting plate for the servos and the e-paper display (Waveshare 3-color 4.2") mounting plate.
