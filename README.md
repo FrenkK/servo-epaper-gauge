@@ -10,3 +10,12 @@ The project includes STEP files for 3d-printing an enclosure:
 
 # Arduino code
 This is the code for the ESP32 controller driving the display and servos. The header files are for the GxEPD2 library and contain display definition and pin connections.
+
+# Connections
+- E-paper display should be connected to 3.3V and GND power rails of the ESP32 and the pins listed in the 'GxEPD2_wiring_examples.h' header file for the exact ESP32 board you are using.
+- Connect the servos power lines to the 5V and GND power rails of the ESP32 board, and then connect the control lines to the pins set in the Arduino code (25, 26, and 27 in my case).
+- Finally, connect the ESP32 board to an USB power cable or directly solder a 1A, 5V voltage supply to the 5V and GND power rails of the ESP32 board.
+
+# TBD
+- OTA firmware upload
+- Better Wi-fi disturbances handling
