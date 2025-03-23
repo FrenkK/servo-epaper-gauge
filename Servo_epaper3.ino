@@ -70,7 +70,6 @@ float batteryVoltage = 58; // Battery voltage
 float producedEnergy = 0; // Total energy produced today
 long lastRefresh = 0; // Timestamp of last screen refresh
 bool normalMode = false; // Normal mode flag
-String chargerString = ""; // String for charger status
 
 //Constants
 
