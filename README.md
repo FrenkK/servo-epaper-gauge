@@ -1,4 +1,4 @@
-# servo-epaper-gauge
+# Triple analog gauge using servos and and e-paper display
 A simple triple gauge using three servos and a 3-color e-paper display used for indicating a solar system state.
 The project uses 3 90g servos to move needles and an e-paper display to display both gauge markings and extra information about the system state.
 
@@ -7,6 +7,9 @@ The project uses 3 90g servos to move needles and an e-paper display to display 
 - Waveshare 4.2" 3-color e-paper display (there are two versions, one with screw holes in the back and one with screw holes next to the display, you need the first one or the mounting biard will not fit)
 - 3 90g servos
 - Some screws from your screw drawer ;)
+- A 3D-printer
+- Weatherproof filament like ASA or ABS
+- Some 1mm thicl acryllic to make the windows
 
 # STEP files
 The project includes STEP files for 3d-printing an enclosure:
